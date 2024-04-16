@@ -1,5 +1,5 @@
 export const Button = () => {
-  return <button>Button</button>;
+  return <button>hello world :3</button>;
 };
 
 Button.propTypes = {};
